@@ -1,0 +1,13 @@
+spring:
+  profiles:
+    active: native
+---
+spring:
+  profiles: native
+  cloud:
+    config:
+      server:
+        native:
+          search-locations:
+            file://Users/Guest/Documents/code/ms-config-properties/{application}/{profile},
+            file://Users/Guest/Documents/code/ms-config-properties/global/{profile}

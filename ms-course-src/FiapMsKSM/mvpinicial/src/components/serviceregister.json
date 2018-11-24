@@ -1,0 +1,6 @@
+{"ccentricbackend": "http://35.185.104.173:8081/ccentricwebapi/webapi/myresource/",
+"ccentricws": "http://35.185.120.138:3000/",
+"ccentricwslocalhost": "http://localhost:3000/",
+"ccentricbackendgoogle": "http://35.185.104.173:8081/ccentricwebapi/webapi/myresource/",
+"ccentricbackendlocalhost": "http://localhost:8081/ccentricwebapi/webapi/myresource/",
+"alunobackendlocalhost": "http://localhost:8080/alunoms/webapi/myresource/"}

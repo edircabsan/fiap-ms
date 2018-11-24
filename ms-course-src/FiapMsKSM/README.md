@@ -1,0 +1,2 @@
+Copyright © 2018 | Professor (a) Cristiano Uniga Bajdiuk
+Todos os direitos reservados. Reprodução ou divulgação total ou parcial deste documento é expressamente proibido sem consentimento formal, por escrito, do professor/autor.
